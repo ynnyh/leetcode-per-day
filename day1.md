@@ -5,6 +5,7 @@
 链接：https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/x2gy9m/
 
 ```
+// 解题思路：快慢指针
 var removeDuplicates = function(nums) {
   let p1 = 0;
   let p2 = 0;
