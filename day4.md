@@ -15,5 +15,6 @@ var rotate = function(nums, k) {
 var rotate = function(nums, k) {
   let arr = nums.splice(nums.length - k);
   nums.splice(0, 0, ...arr);
+  return nums;
 };
 ```
