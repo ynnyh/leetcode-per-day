@@ -8,6 +8,7 @@
 链接：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii
 
 ```
+// 贪心算法
 var maxProfit = function(prices) {
   let p = 0;
   for (let i = 1; i < prices.length; i++) {
