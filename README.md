@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-01-21 21:30:13
+ * @LastEditTime: 2021-01-22 22:29:14
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -22,3 +22,4 @@
 13. day13 —— 整数反转
 14. day14 —— 字符串中的第一个唯一字符
 15. day15 —— 有效的字母异位词
+16. day16 —— 验证回文串
