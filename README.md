@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-01-30 21:55:39
+ * @LastEditTime: 2021-01-31 19:44:22
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -31,3 +31,4 @@
 22. [寻找两个正序数组的中位数](https://github.com/ynnyh/leetcode-per-day/blob/master/day22.md)
 23. [盛最多水的容器](https://github.com/ynnyh/leetcode-per-day/blob/master/day23.md)
 24. [三数之和](https://github.com/ynnyh/leetcode-per-day/blob/master/day24.md)
+24. [移除元素](https://github.com/ynnyh/leetcode-per-day/blob/master/day25.md)
