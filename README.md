@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-02-02 21:05:43
+ * @LastEditTime: 2021-02-03 20:02:59
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -34,3 +34,4 @@
 25. [移除元素](https://github.com/ynnyh/leetcode-per-day/blob/master/day25.md)
 26. [公平的糖果棒交换](https://github.com/ynnyh/leetcode-per-day/blob/master/day26.md)
 27. [最接近的三数之和](https://github.com/ynnyh/leetcode-per-day/blob/master/day27.md)
+28. [搜索插入位置](https://github.com/ynnyh/leetcode-per-day/blob/master/day28.md)
