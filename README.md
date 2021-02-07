@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-02-06 20:09:01
+ * @LastEditTime: 2021-02-07 20:45:00
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -38,3 +38,4 @@
 29. [子数组最大平均数 I](https://github.com/ynnyh/leetcode-per-day/blob/master/day29.md)
 30. [尽可能使字符串相等](https://github.com/ynnyh/leetcode-per-day/blob/master/day30.md)
 31. [可获得的最大点数](https://github.com/ynnyh/leetcode-per-day/blob/master/day31.md)
+32. [非递减数列](https://github.com/ynnyh/leetcode-per-day/blob/master/day32.md)
