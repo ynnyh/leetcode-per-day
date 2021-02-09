@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-02-08 19:43:46
+ * @LastEditTime: 2021-02-09 17:19:31
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -40,3 +40,4 @@
 31. [可获得的最大点数](https://github.com/ynnyh/leetcode-per-day/blob/master/day31.md)
 32. [非递减数列](https://github.com/ynnyh/leetcode-per-day/blob/master/day32.md)
 33. [最长湍流子数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day33.md)
+34. [K 个不同整数的子数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day34.md)
