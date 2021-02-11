@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-02-10 20:23:09
+ * @LastEditTime: 2021-02-11 16:10:16
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -42,3 +42,4 @@
 33. [最长湍流子数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day33.md)
 34. [K 个不同整数的子数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day34.md)
 35. [字符串的排列](https://github.com/ynnyh/leetcode-per-day/blob/master/day35.md)
+36. [下一个排列](https://github.com/ynnyh/leetcode-per-day/blob/master/day36.md)
