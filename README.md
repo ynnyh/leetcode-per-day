@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-02-13 19:31:02
+ * @LastEditTime: 2021-02-14 19:23:31
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -45,3 +45,4 @@
 36. [下一个排列](https://github.com/ynnyh/leetcode-per-day/blob/master/day36.md)
 37. [回文数](https://github.com/ynnyh/leetcode-per-day/blob/master/day37.md)
 38. [找到所有数组中消失的数字](https://github.com/ynnyh/leetcode-per-day/blob/master/day38.md)
+39. [最大子序和](https://github.com/ynnyh/leetcode-per-day/blob/master/day39.md)
