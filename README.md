@@ -63,3 +63,4 @@
 54. [爬楼梯](https://github.com/ynnyh/leetcode-per-day/blob/master/day54.md)
 55. [买卖股票的最佳时机](https://github.com/ynnyh/leetcode-per-day/blob/master/day55.md)
 56. [打家劫舍](https://github.com/ynnyh/leetcode-per-day/blob/master/day56.md)
+57. [Fizz Buzz](https://github.com/ynnyh/leetcode-per-day/blob/master/day57.md)
