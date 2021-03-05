@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-03-03 10:26:49
+ * @LastEditTime: 2021-03-05 16:50:27
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -64,3 +64,4 @@
 55. [买卖股票的最佳时机](https://github.com/ynnyh/leetcode-per-day/blob/master/day55.md)
 56. [打家劫舍](https://github.com/ynnyh/leetcode-per-day/blob/master/day56.md)
 57. [Fizz Buzz](https://github.com/ynnyh/leetcode-per-day/blob/master/day57.md)
+58. [计数质数](https://github.com/ynnyh/leetcode-per-day/blob/master/day58.md)
