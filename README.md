@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-03-05 16:50:27
+ * @LastEditTime: 2021-03-06 18:35:08
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -65,3 +65,4 @@
 56. [打家劫舍](https://github.com/ynnyh/leetcode-per-day/blob/master/day56.md)
 57. [Fizz Buzz](https://github.com/ynnyh/leetcode-per-day/blob/master/day57.md)
 58. [计数质数](https://github.com/ynnyh/leetcode-per-day/blob/master/day58.md)
+59. [3的幂](https://github.com/ynnyh/leetcode-per-day/blob/master/day59.md)
