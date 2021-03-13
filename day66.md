@@ -1,34 +1,31 @@
 <!--
  * @Author: 月魂
- * @Date: 2021-03-12 17:59:02
- * @LastEditTime: 2021-03-12 18:02:41
+ * @Date: 2021-03-13 23:33:31
+ * @LastEditTime: 2021-03-13 23:37:12
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\day66.md
 -->
-### 缺失数字
-给定一个包含 [0, n] 中 n 个数的数组 nums ，找出 [0, n] 这个范围内没有出现在数组中的那个数。
+### 删除链表的倒数第 N 个结点
+给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
+
+进阶：你能尝试使用一趟扫描实现吗？
 
 ```
-// 第一种解法
-var missingNumber = function(nums) {
-  let s = new Set();
-  let arr = [];
-  for (let i = 0; i <= nums.length; i++) {
-    arr.push(i);
+var removeNthFromEnd = function(head, n) {
+  let preHead = new ListNode(0);
+  preHead.next = head;
+  let fast = preHead, slow = preHead;
+  // 快先走 n+1 步
+  while(n--) {
+    fast = fast.next;
   }
-  for (let i = 0; i < nums.length; i++) {
-    s.add(nums[i]);
+  // fast、slow 一起前进
+  while(fast && fast.next) {
+    fast = fast.next;
+    slow = slow.next;
   }
-  for (let i = 0; i < arr.length; i++) {
-    if (!s.has(arr[i])) return arr[i];
-  }
-};
-// 第二种解法
-var missingNumber = function(nums) {
-  nums.sort((a, b) => a - b);
-  for (let i = 0; i <= nums.length; i++) {
-    if (i !== nums[i]) return i;
-  }
+  slow.next = slow.next.next;
+  return preHead.next;
 };
 ```
