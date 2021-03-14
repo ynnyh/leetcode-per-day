@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-03-13 23:35:50
+ * @LastEditTime: 2021-03-14 12:42:15
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -73,3 +73,4 @@
 64. [有效的括号](https://github.com/ynnyh/leetcode-per-day/blob/master/day64.md)
 65. [缺失数字](https://github.com/ynnyh/leetcode-per-day/blob/master/day65.md)
 66. [删除链表的倒数第 N 个结点](https://github.com/ynnyh/leetcode-per-day/blob/master/day66.md)
+67. [设计哈希映射](https://github.com/ynnyh/leetcode-per-day/blob/master/day67.md)
