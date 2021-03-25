@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-03-24 16:59:52
+ * @LastEditTime: 2021-03-25 21:16:00
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -84,3 +84,4 @@
 75. [删除中间节点](https://github.com/ynnyh/leetcode-per-day/blob/master/day75.md)
 76. [宝石与石头](https://github.com/ynnyh/leetcode-per-day/blob/master/day76.md)
 77. [拥有最多糖果的孩子](https://github.com/ynnyh/leetcode-per-day/blob/master/day77.md)
+78. [删除排序链表中的重复元素](https://github.com/ynnyh/leetcode-per-day/blob/master/day78.md)
