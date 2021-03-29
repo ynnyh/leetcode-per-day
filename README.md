@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-03-28 12:40:51
+ * @LastEditTime: 2021-03-29 15:08:01
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -88,3 +88,4 @@
 79. [重新排列数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day79.md)
 80. [分割数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day80.md)
 81. [二叉树的深度](https://github.com/ynnyh/leetcode-per-day/blob/master/day81.md)
+82. [颠倒二进制位](https://github.com/ynnyh/leetcode-per-day/blob/master/day82.md)
