@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-04-03 17:36:41
+ * @LastEditTime: 2021-04-04 13:52:49
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -94,3 +94,4 @@
 85. [旋转矩阵](https://github.com/ynnyh/leetcode-per-day/blob/master/day85.md)
 86. [猜数字](https://github.com/ynnyh/leetcode-per-day/blob/master/day86.md)
 87. [零矩阵](https://github.com/ynnyh/leetcode-per-day/blob/master/day87.md)
+88. [对角线遍历](https://github.com/ynnyh/leetcode-per-day/blob/master/day88.md)
