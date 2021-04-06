@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-04-05 19:54:59
+ * @LastEditTime: 2021-04-06 13:53:00
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -96,3 +96,4 @@
 87. [零矩阵](https://github.com/ynnyh/leetcode-per-day/blob/master/day87.md)
 88. [对角线遍历](https://github.com/ynnyh/leetcode-per-day/blob/master/day88.md)
 89. [最后一个单词的长度](https://github.com/ynnyh/leetcode-per-day/blob/master/day89.md)
+90. [删除有序数组中的重复项 II](https://github.com/ynnyh/leetcode-per-day/blob/master/day90.md)
