@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-04-09 17:53:29
+ * @LastEditTime: 2021-04-10 11:27:48
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -100,3 +100,4 @@
 91. [翻转字符串里的单词](https://github.com/ynnyh/leetcode-per-day/blob/master/day91.md)
 92. [两数之和 II - 输入有序数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day92.md)
 93. [长度最小的子数组](https://github.com/ynnyh/leetcode-per-day/blob/master/day93.md)
+94. [杨辉三角 II](https://github.com/ynnyh/leetcode-per-day/blob/master/day94.md)
