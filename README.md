@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-04-13 21:10:59
+ * @LastEditTime: 2021-04-14 22:27:01
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -104,3 +104,4 @@
 95. [反转字符串中的单词 III](https://github.com/ynnyh/leetcode-per-day/blob/master/day95.md)
 96. [环形链表](https://github.com/ynnyh/leetcode-per-day/blob/master/day96.md)
 97. [寻找旋转排序数组中的最小值](https://github.com/ynnyh/leetcode-per-day/blob/master/day97.md)
+98. [移除链表元素](https://github.com/ynnyh/leetcode-per-day/blob/master/day98.md)
