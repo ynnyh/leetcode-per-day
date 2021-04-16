@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-04-15 21:32:57
+ * @LastEditTime: 2021-04-16 22:05:48
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -106,3 +106,4 @@
 97. [寻找旋转排序数组中的最小值](https://github.com/ynnyh/leetcode-per-day/blob/master/day97.md)
 98. [移除链表元素](https://github.com/ynnyh/leetcode-per-day/blob/master/day98.md)
 99. [最小栈](https://github.com/ynnyh/leetcode-per-day/blob/master/day99.md)
+100. [最小操作次数使数组元素相等](https://github.com/ynnyh/leetcode-per-day/blob/master/day100.md)
