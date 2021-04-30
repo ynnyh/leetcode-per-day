@@ -1,7 +1,7 @@
 <!--
  * @Author: 月魂
  * @Date: 2021-01-11 20:00:30
- * @LastEditTime: 2021-04-29 21:45:59
+ * @LastEditTime: 2021-04-30 15:06:57
  * @LastEditors: 月魂
  * @Description: 
  * @FilePath: \leetcode-per-day\README.md
@@ -120,3 +120,4 @@
 111. [二叉搜索树的范围和](https://github.com/ynnyh/leetcode-per-day/blob/master/day111.md)
 112. [对称二叉树](https://github.com/ynnyh/leetcode-per-day/blob/master/day112.md)
 113. [二叉树的最大深度](https://github.com/ynnyh/leetcode-per-day/blob/master/day113.md)
+114. [只出现一次的数字 II](https://github.com/ynnyh/leetcode-per-day/blob/master/day114.md)
